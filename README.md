@@ -1,2 +1,2 @@
 # software
-remastersys：linux下liveCD制作工具
+remastersys：linux_liveCD
